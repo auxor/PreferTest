@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app preferred settings-->
+    <string-array name="app_preferred_type">
+        <item>Desktop</item>
+        <item>Browse web page</item>
+        <item>Send SMS</item>
+        <item>Call</item>
+        <item>Take pictures</item>
+        <item>View pictures</item>
+        <item>Play music</item>
+        <item>Send email</item>
+    </string-array>
+    <!--app preferred settings-->
+</resources>

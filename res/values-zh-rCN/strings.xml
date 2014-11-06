@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">默认应用测试</string>
+    <string name="activity_not_found">没有应用可以处理此请求！</string>
+</resources>

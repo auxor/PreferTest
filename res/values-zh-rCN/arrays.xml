@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app preferred settings-->
+    <string-array name="app_preferred_type">
+        <item>桌面</item>
+        <item>浏览网页</item>
+        <item>发短信</item>
+        <item>打电话</item>
+        <item>照相</item>
+        <item>查看图片</item>
+        <item>播放音乐</item>
+        <item>发邮件</item>
+    </string-array>
+    <!--app preferred settings-->
+</resources>
